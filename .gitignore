@@ -5,3 +5,9 @@
 .classpath
 java/target
 benchmark/data/*.data
+
+# Eclipse build output
+Debug/
+Release/
+Example (Debug)/
+Example (Release)/
